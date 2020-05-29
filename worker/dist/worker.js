@@ -1,8 +1,8 @@
 self.props = {
 	title: 'Google Drive Index',
 	default_root_id: 'root',
-	client_id: '58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com',
-	client_secret: 'ZNPZ-vS6N9Zjsyb_sNMZmXHL',
+	client_id: '147136826245-92jr52v4p480s5bc5nbkkdtubqfqao9a.apps.googleusercontent.com',
+	client_secret: 'KqFrePSVdjOZ97quZnfc8rwx',
 	refresh_token: '',
 	auth: false,
 	user: '',
